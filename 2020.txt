@@ -1,0 +1,12 @@
+Latest ques Interview 2020 ques :
+
+stack implementation using Array/List 
+stack implementation using Linked list 
+check if given expression is balanced expression or not
+find duplicate parenthesis in an expression 
+evaluate given postfix expression
+merging overlaaping Intervals
+Reverse string withou using recursion
+Implement stack using queue data structure
+Implement queue using stack data structure
+Implement two stacks in a single array
